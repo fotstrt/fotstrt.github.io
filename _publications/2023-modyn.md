@@ -5,5 +5,5 @@ permalink: /publication/2023-modyn
 date: 2023-10-01
 venue: 'Proceedings of the 3rd Workshop on Machine Learning and Systems (EuroMLSys 2023)'
 paperurl: '/file/2023-modyn.pdf'
-citation: 'Maximilian Böther, <b>Foteini Strati</b>, Viktor Gsteiger, and Ana Klimovic. 2023. Towards A Platform and Benchmark Suite for Model Training on Dynamic Datasets. In Proceedings of the 3rd Workshop on Machine Learning and Systems (EuroMLSys 2023).8–17. https://doi.org/10.1145/3578356.3592585'
+citation: 'Maximilian Böther, <b>Foteini Strati</b>, Viktor Gsteiger, and Ana Klimovic. 2023. Towards A Platform and Benchmark Suite for Model Training on Dynamic Datasets. In Proceedings of the 3rd Workshop on Machine Learning and Systems (EuroMLSys 2023).8–17.'
 ---
