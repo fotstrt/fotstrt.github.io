@@ -5,5 +5,5 @@ permalink: /publication/2025-utilgpu
 date: 2025-01-01
 venue: 'Under submission'
 paperurl: '/files/2025-utilgpu.pdf'
-citation: 'Paul Elvinger, <b>Foteini Strati</b>, Natalie Enright Jerger, Ana Klimovic, *Under submission*'
+citation: 'Paul Elvinger, <b>Foteini Strati</b>, Natalie Enright Jerger, Ana Klimovic, <em>Under submission</em>'
 ---
